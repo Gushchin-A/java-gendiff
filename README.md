@@ -1,6 +1,7 @@
-[![Build](https://github.com/Gushchin-A/java-project-71/actions/workflows/gradle-build.yml/badge.svg)](https://github.com/Gushchin-A/java-project-71/actions/workflows/gradle-build.yml) [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Gushchin-A_java-project-71&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Gushchin-A_java-project-71) [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=Gushchin-A_java-project-71&metric=coverage)](https://sonarcloud.io/summary/new_code?id=Gushchin-A_java-project-71)
+[![Build](https://github.com/Gushchin-A/java-project-71/actions/workflows/gradle-build.yml/badge.svg)](https://github.com/Gushchin-A/java-project-71/actions/workflows/gradle-build.yml) [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=Gushchin-A_java-project-71&metric=coverage)](https://sonarcloud.io/summary/new_code?id=Gushchin-A_java-project-71)
 
 ### 📑 🔍 Gendiff
+Educational Java CLI application based on a Hexlet project.
 Diff Tool – a program that determines the difference between two data structures.
 
 ---
