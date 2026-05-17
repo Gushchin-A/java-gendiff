@@ -2,6 +2,7 @@
 
 ### 📑 🔍 Gendiff
 Educational Java CLI application based on a Hexlet project.
+
 Diff Tool – a program that determines the difference between two data structures.
 
 ---
