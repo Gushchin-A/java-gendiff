@@ -1,4 +1,8 @@
-[![Actions Status](https://github.com/Gushchin-A/java-project-71/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/Gushchin-A/java-project-71/actions) [![Build](https://github.com/Gushchin-A/java-project-71/actions/workflows/gradle-build.yml/badge.svg)](https://github.com/Gushchin-A/java-project-71/actions/workflows/gradle-build.yml) [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Gushchin-A_java-project-71&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Gushchin-A_java-project-71) [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=Gushchin-A_java-project-71&metric=coverage)](https://sonarcloud.io/summary/new_code?id=Gushchin-A_java-project-71)
+[![Build](https://github.com/Gushchin-A/java-gendiff/actions/workflows/gradle-build.yml/badge.svg)](https://github.com/Gushchin-A/java-gendiff/actions/workflows/gradle-build.yml) [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Gushchin-A_java-gendiff&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Gushchin-A_java-gendiff) [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=Gushchin-A_java-gendiff&metric=coverage)](https://sonarcloud.io/summary/new_code?id=Gushchin-A_java-gendiff)
+
+### 📑 🔍 Gendiff
+Diff Tool – a program that determines the difference between two data structures.
+
 ---
 ### Project launch:
 ```bash
@@ -11,9 +15,6 @@ make run-dist  # run installed CLI version
 ./gendiff # path to file
 ```
 ---
-### 📑 🔍 Gendiff
-Diff Tool – a program that determines the difference between two data structures.
-
 [![asciicast](https://asciinema.org/a/IFlGPxVXxXAVm3nUaQNAkHLmw.svg)](https://asciinema.org/a/IFlGPxVXxXAVm3nUaQNAkHLmw)
 
 #### Demo compare files with nested keys
